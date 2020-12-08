@@ -1,0 +1,2 @@
+this is how to create test.txt file usnig 
+command prompt(gitbash). then to commite it.
